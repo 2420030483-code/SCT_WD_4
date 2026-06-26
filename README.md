@@ -28,3 +28,42 @@ ZenTask is a modern and responsive task management application that helps users 
 - CSS3
 
 ## 📂 Project Structure
+src/
+├── components/
+├── pages/
+├── hooks/
+├── assets/
+├── styles/
+└── App.js
+
+## 🎯 Objective
+
+The goal of this project is to provide users with an intuitive and efficient way to manage their daily tasks and improve productivity through an organized workspace system.
+
+## 📸 Features Demonstrated
+
+- Task Creation
+- Workspace Management
+- Task Filtering
+- Priority Management
+- Due Date Tracking
+- Responsive User Interface
+
+## 📚 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- React Component Architecture
+- State Management
+- Responsive UI Design
+- CRUD Operations
+- Frontend Development Best Practices
+
+## 👨‍💻 Developed By
+
+**Amarnath**  
+B.Tech CSE Student | Aspiring AI & Full Stack Developer
+
+## 📌 Internship
+
+Developed as part of the **SkillCraft Technology Web Development Internship Program**.
