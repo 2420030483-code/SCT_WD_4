@@ -1,16 +1,30 @@
-# SCT_WD_4
+# 📝 ZenTask - Smart Task Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+ZenTask is a modern and responsive task management application that helps users organize their tasks efficiently through multiple workspaces, task priorities, and status tracking.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ✅ Create, edit, and delete tasks
+- 📂 Multiple workspaces (Personal, Work, Shopping, etc.)
+- 📅 Add due dates and times
+- 🔥 Set task priorities (Low, Medium, High)
+- 📊 Task statistics dashboard
+- 🔍 Search tasks instantly
+- 📌 Filter tasks by:
+  - All Tasks
+  - Pending
+  - Completed
+  - Due Today
+  - Overdue
+- 🌙 Modern dark-themed UI
+- 📱 Responsive design
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📂 Project Structure
